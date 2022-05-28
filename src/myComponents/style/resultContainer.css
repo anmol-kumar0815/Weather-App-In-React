@@ -1,0 +1,14 @@
+.result-container{
+    margin-top: 20px;
+    width: 100%;
+    height: fit-content;
+    /* border: 1px solid black; */
+    padding: 5px 0;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px black;
+}
+
+.city-description{
+    font-size: larger;
+}

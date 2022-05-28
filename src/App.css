@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 12vmin;
   pointer-events: none;
 }
 
@@ -15,13 +15,19 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 13vh;
   display: flex;
-  flex-direction: column;
+  justify-content:center;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.title{
+  margin: auto 0; 
+  color: white;
+  font-size: xx-large;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .App-link {
