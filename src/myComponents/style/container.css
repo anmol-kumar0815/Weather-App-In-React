@@ -12,3 +12,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media screen and (min-width: 975px){
+    .inner-container{
+        width: 100%;
+    }
+}
+
